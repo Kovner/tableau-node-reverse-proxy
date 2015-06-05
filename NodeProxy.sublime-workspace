@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"applied",
+				"appliedValueObjects"
+			],
+			[
+				"appli",
+				"appliedValues"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"signin",
+				"signin_response"
+			],
+			[
+				"cred",
+				"credentials"
+			],
+			[
+				"cre",
+				"credentials"
+			],
+			[
+				"sign",
+				"signin_response"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"aut",
+				"authToken"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/C/CustomSQLTWBX 2.twb",
+		"/Volumes/C/CustomSQLTest_Saved.twb",
+		"/Volumes/C/CustomSQLTest_Hacked.twb",
+		"/Volumes/C/CustomSQLTest.twb",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/Truven Health/TruvenHealth_Skeleton.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/TITETG.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/javascripts/TITETG.js",
+		"/Users/mkovner/Documents/Coding/Medic-Client/Medic HTML/index.html",
+		"/Users/mkovner/Documents/Projects/TCC 2013/YouDidWhat/NewsArticle/NewsArticle.js",
+		"/Users/mkovner/Documents/Projects/TCC 2013/YouDidWhat/NewsArticle/NewsArticle.html",
+		"/Volumes/C/ProgramData/Tableau/Tableau Server/config/tabsvc.yml",
+		"/Users/mkovner/Documents/Coding/JSAPI/Filter Transfer/filterTransfer.js",
+		"/Users/mkovner/Documents/Coding/JSAPI/Filter Transfer/filterTransfer.html",
+		"/Users/mkovner/Documents/My Tableau Repository/Customer Data/2015 (05) May/Truven/index3.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/JSAPI_Examples.html",
+		"/Users/mkovner/Desktop/index3.html",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabChat/public/javascripts/client.js",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/javascripts/ipadResizeTest.js",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/ipadResizeTest.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/responsive.html",
+		"/Users/mkovner/Documents/Coding/ipadResizeTest/ipadResizeTest.html",
+		"/Users/mkovner/Documents/Coding/ipadResizeTest/ipadResizeTest.js",
+		"/Users/mkovner/Documents/Coding/REST API/TylersScripts/demo.py",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/SailThru EmailMarketing/SailThruWebEditing.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/ Clippy.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/autoload.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/multiautoload.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/mixup.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/Launcher.html",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/MediaBrix/MediaBrix.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/PayFactors.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/javascripts/clippy.js",
+		"/Users/mkovner/Documents/Coding/tccgrid/css/default.css",
+		"/Users/mkovner/Documents/Coding/tccgrid/css/style.css",
+		"/Users/mkovner/Documents/Coding/ned/javascripts/imagesloaded.js",
+		"/Users/mkovner/Documents/Coding/tccgrid/reportgrid.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/css/layout-default-latest.css",
+		"/Users/mkovner/Documents/Coding/ned/css/layout-default-latest.css",
+		"/Users/mkovner/Documents/Coding/ned/neverendingdashboard.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/index.html",
+		"/Users/mkovner/Documents/Coding/You Did What/youdidwhat/YouDidWhat2014.html",
+		"/Users/mkovner/Documents/Coding/ned/javascripts/ned_data.js",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/index.html",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/javascripts/mainScript.js",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/javascripts/utilities.js",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/javascripts/data.js",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/js/mainScript.js",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/js/utilities.js",
+		"/Users/mkovner/Documents/Coding/Every Method of the JS API harness/htdocs2/htdocs/js/data.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabChat/package.json",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabChat/server.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabChat/views/index.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/ThermoScientific.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/SailThruEmailMarketing.html",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/PayFactors/HR Analytics.html",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/ThermoScientific/ThermoScientific.html",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/SailThru EmailMarketing/SailThruEmailMarketing.html",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/PayFactors/PayFactors.html",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/Cerebral.html",
+		"/Users/mkovner/Documents/Demos/Vertical Portal/MediaBrix/Campaign Analytics.html",
+		"/Volumes/C/default_workbooks.xml",
+		"/Volumes/C/Google_workbooks.xml",
+		"/Users/mkovner/Desktop/COGS_pipedelim.csv",
+		"/private/etc/hosts",
+		"/Users/mkovner/Desktop/To Mike Kovner-selected/AdipicMain_mkovner.twb",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/iPadViewer.html",
+		"/Users/mkovner/Desktop/Book3.twb",
+		"/Users/mkovner/Desktop/mapTest.twb",
+		"/Users/mkovner/Desktop/EmbedWAuthLink.html",
+		"/Users/mkovner/Documents/Coding/REST API/Sample Scripts/SafeDeleteUser.py",
+		"/Users/mkovner/Documents/Demos/ThermoFisher/ThermoFisher LIMS Analytics.html",
+		"/Users/mkovner/Desktop/Visa Expiration Details_Filters_16Col/Visa Expiration Details_Filters_16Col.twb",
+		"/Users/mkovner/Documents/My Tableau Repository/Workbooks/Learning/9 top percent of products LOD Marc Reuter.twb",
+		"/Users/mkovner/Documents/Coding/JSAPI/ThermoFisher/ThermoFisher LIMS Analytics.html",
+		"/Users/mkovner/Documents/Coding/JSAPI/MediaBrix/Campaign Analytics.html",
+		"/Users/mkovner/Documents/Coding/Scripts and Html/TDEBuilder/Examples/Python/makeorder.py",
+		"/Users/mkovner/Documents/Coding/REST API/TylersScripts/fun_reading_schema.py",
+		"/Users/mkovner/Documents/Coding/REST API/TylersScripts/somme.py",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/javascripts/main.js",
+		"/Users/mkovner/Desktop/New Report_Mar32015/New Report_Mar32015.twb",
+		"/Users/mkovner/Desktop/ManyCols.twb",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/public/stylesheets/aboutcompany.css",
+		"/Users/mkovner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mkovner/Desktop/iframetest.html",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/views/analyze.ejs",
+		"/Users/mkovner/Desktop/h000h9049_shp/h000h9049.shp",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/app.js",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/views/index.ejs",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/package.json",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/package.json",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/views/login.ejs",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/views/signup.ejs",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/public/stylesheets/tcc_api.css",
+		"/Users/mkovner/Documents/Projects/TCC 2014/TCC_API/views/aboutcompany.ejs",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/fileServer.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/app.js",
+		"/Users/mkovner/Documents/Coding/StaticFileServer/public/helloWorld.html",
+		"/Users/mkovner/Documents/Projects/TITETG/TITETG_Fixed/TITETG.html",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/package.json",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/Dashboards.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/JSAPI_Examples.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/Data/DisplayText.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/JSAPI_Examples.html",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/index.html",
+		"/Users/mkovner/Documents/Coding/Scripts and Html/JS API v8 Examples/index.html",
+		"/Users/mkovner/Documents/Projects/TITETG/TITETG_USETHISFOLDER-Public/TITETG.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/Parameters.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/CustomViews.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/Utilities.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/ChangingViews.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/SelectingMarks.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/GettingData.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/BasicFiltering.js",
+		"/Users/mkovner/Documents/Coding/JS API v8 Examples/EmbeddingAndSkeleton.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/ejs/History.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/views/user.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/README.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabREST.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/public/stylesheets/users.css",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/views/users.ejs",
+		"/Volumes/C/ProgramData/Tableau/Tableau Server/data/tabsvc/config/workgroup.yml",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/README.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/RestAPIVid.sublime-project",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/public/stylesheets/rest-tutorial.css",
+		"/Users/mkovner/Documents/Coding/Scripts and Html/JS API v8 Examples/Skeleton.js",
+		"/Users/mkovner/Documents/Coding/PostMan_RESTCollection",
+		"/Applications/cDock.app/Contents/Resources/premade/dark copy.txt",
+		"/Users/mkovner/Documents/Coding/RussellsPOSTMAN.json"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sheetName",
+			"./codecanyon",
+			"tableau.russellchristopher.org/t/SkunkWorks",
+			"demo.tableausoftware.com/t/OEM",
+			"./codecanyon/",
+			"dist/",
+			"tableausoftware",
+			"js/",
+			"js",
+			"js/",
+			"serverName",
+			"Tableau",
+			"tableau",
+			"public.tableausoftware.com",
+			"tableausoftware",
+			",",
+			"penddba09",
+			"AscendAWSDB",
+			"penddba",
+			"bucket",
+			"16col",
+			"row-levels",
+			"16",
+			"mkovner-vm",
+			"launchDesigner",
+			"body",
+			"bodyXML",
+			"reqxml",
+			"bodyXML",
+			"reqxml",
+			"admin",
+			"rest",
+			"mkovner",
+			"mkovner-vm",
+			"userIDs2",
+			"users",
+			"usersList",
+			"loginErr",
+			"filterevent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"javascripts",
+			"demo.tableausoftware.com/t/OEM",
+			"javascripts/",
+			"tableau",
+			"|",
+			"mkovner-vm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NodeProxy.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dynd",
+				"StaticFileServer/public/dynDate.html"
+			],
+			[
+				"he",
+				"StaticFileServer/public/helloWorld.html"
+			],
+			[
+				"hello",
+				"StaticFileServer/public/helloWorld.html"
+			],
+			[
+				"file",
+				"StaticFileServer/fileServer.js"
+			],
+			[
+				"read",
+				"REST-API-Vid/README.md"
+			],
+			[
+				"app.",
+				"REST-API-Vid/app.js"
+			],
+			[
+				"app",
+				"REST-API-Demo/app.js"
+			],
+			[
+				"app.js",
+				"REST-API-Demo/app.js"
+			],
+			[
+				"user.ejs",
+				"REST-API-Vid/views/user.ejs"
+			],
+			[
+				"rest",
+				"REST-API-Vid/public/stylesheets/rest-tutorial.css"
+			],
+			[
+				"users.cs",
+				"REST-API-Vid/public/stylesheets/users.css"
+			],
+			[
+				"users",
+				"REST-API-Vid/users.ejs"
+			],
+			[
+				"ind",
+				"REST-API-Vid/views/index.ejs"
+			],
+			[
+				"index",
+				"REST-API-Vid/views/index.ejs"
+			],
+			[
+				"pa",
+				"REST-API-Vid/package.json"
+			],
+			[
+				"index.ejs",
+				"REST-API-Demo/views/index.ejs"
+			],
+			[
+				"pak",
+				"REST-API-Demo/package.json"
+			],
+			[
+				"pack",
+				"REST-API-Vid/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
