@@ -47,6 +47,33 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "{\n	\"name\": \"tableau-node-reverse-proxy\",\n	\"version\": \"0.0.1\",\n	\"description\": \"Proof of concept to create a reverse proxy for Tableau Server and explore custom proxy ideas for Tableau Server.\",\n	\"author\": \"Michael Kovner <mkovner@tableau.com>\",\n\n	\"dependencies\":  {\n		\"http-proxy\": \"1.11.x\"\n	}\n}",
+			"file": "package.json",
+			"file_size": 290,
+			"file_write_time": 130780039170000000,
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ReverseProxy.js",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -118,8 +145,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/mkovner/Documents/Coding/NodeProxy"
+	],
 	"file_history":
 	[
+		"/Users/mkovner/Documents/Coding/NodeProxy/.gitignore",
 		"/Volumes/C/CustomSQLTWBX 2.twb",
 		"/Volumes/C/CustomSQLTest_Saved.twb",
 		"/Volumes/C/CustomSQLTest_Hacked.twb",
@@ -246,8 +278,7 @@
 		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/public/stylesheets/rest-tutorial.css",
 		"/Users/mkovner/Documents/Coding/Scripts and Html/JS API v8 Examples/Skeleton.js",
 		"/Users/mkovner/Documents/Coding/PostMan_RESTCollection",
-		"/Applications/cDock.app/Contents/Resources/premade/dark copy.txt",
-		"/Users/mkovner/Documents/Coding/RussellsPOSTMAN.json"
+		"/Applications/cDock.app/Contents/Resources/premade/dark copy.txt"
 	],
 	"find":
 	{
@@ -328,8 +359,96 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								191
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ReverseProxy.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -4,7 +4,7 @@ var httpProxy = require('http-proxy');
 var proxy = httpProxy.createProxyServer({});
 
 var server = http.createServer(function(req, res) {
-	console.log(req);
+	console.log(req.url);
 	console.log("***************************************************");
 	proxy.web(req,res, {target: "http://mkovner-vm"});
 });
